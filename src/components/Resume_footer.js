@@ -8,9 +8,10 @@ class Resume_content extends Component {
                 <div class="container">
                     <p class="text-center">
                         © Copyright 2018. All right reserved by
-                                    <a href="#" target="_blank">
-                            <strong> Amad Hendro</strong>
+                                    <a href="#">
+                            <strong> Amad Hendro </strong>
                         </a>
+                          Happy Coders ()=> 
                     </p>
                 </div>
             </footer>
