@@ -55,7 +55,7 @@ class Resume_content extends Component {
                         <img src="https://cdn-images-1.medium.com/max/1200/1*Aix4x8266PpYWefv5JAEOQ.jpeg" alt="medium-ahendroo" />
                     </div>
                     <header>
-                        <h2> Amad Hendro Lukito
+                        <h2> Amad Hendro
                         <time datetime="">{day_hari + ', ' + (day.getDate()) + ' ' + day_bulan + ' ' + (day.getFullYear())}</time>
                         </h2>
                         <hr />
@@ -91,7 +91,7 @@ class Resume_content extends Component {
 
                         <h3>System Analyst</h3>
                         <p>
-                        System Analyst adalah seseorang yang bertanggung jawab atas penelitian, perencanaan, pengkoordinasian, dan merekomendasikan pemilihan perangkat lunak dan sistem yang paling sesuai dengan kebutuhan organisasi bisnis atau perusahaan. Analis sistem memegang peranan yang sangat penting dalam proses pengembangan sistem. Seorang analis sistem harus memiliki setidaknya empat keahlian: analisis, teknis, manajerial, dan interpersonal (berkomunikasi dengan orang lain). Kemampuan analisis memungkinkan seorang analis sistem untuk memahami perilaku organisasi beserta fungsi-fungsinya, pemahaman tersebut akan membantu dalam mengidentifikasi kemungkinan terbaik serta menganalisis penyelesaian permasalahan. Keahlian teknis akan membantu seorang analis sistem untuk memahami potensi dan keterbatasan dari teknologi informasi. Seorang analis sistem harus mampu untuk bekerja dengan berbagai jenis bahasa pemrograman, sistem operasi, serta perangkat keras yang digunakan. Keahlian manajerial akan membantu seorang analis sistem mengelola proyek, sumber daya, risiko, dan perubahan. Keahlian interpersonal akan membantu analis sistem dalam berinteraksi dengan pengguna akhir sebagaimana halnya dengan analis, programer, dan profesi sistem lainnya.
+                        System Analyst adalah seseorang yang bertanggung jawab atas penelitian, perencanaan, pengkoordinasian, dan merekomendasikan pemilihan perangkat lunak dan sistem yang paling sesuai dengan kebutuhan struktural bisnis atau perusahaan. Analis sistem memegang peranan yang sangat penting dalam proses pengembangan sistem. Seorang analis sistem harus memiliki setidaknya empat keahlian: analisis, teknis, manajerial, dan interpersonal (berkomunikasi dengan orang lain). Kemampuan analisis memungkinkan seorang analis sistem untuk memahami fungsi-fungsinya, pemahaman tersebut akan membantu dalam mengidentifikasi kemungkinan terbaik serta menganalisis penyelesaian permasalahan. Keahlian teknis akan membantu seorang analis sistem untuk memahami potensi dan keterbatasan dari teknologi informasi. Seorang analis sistem harus mampu untuk bekerja dengan berbagai jenis bahasa pemrograman, sistem operasi, serta perangkat keras yang digunakan. Keahlian manajerial akan membantu seorang analis sistem mengelola proyek, sumber daya, risiko, dan perubahan. Keahlian interpersonal akan membantu analis sistem dalam berinteraksi dengan pengguna akhir sebagaimana halnya dengan analis, programer, dan profesi sistem lainnya.
 
 Analis sistem bisa pula menjadi perantara atau penghubung antara perusahaan penjual perangkat lunak dengan organisasi tempat ia bekerja, dan bertanggung jawab atas analisis biaya pengembangan, usulan desain dan pengembangan, serta menentukan rentang waktu yang diperlukan. Analis sistem bertanggung jawab pula atas studi kelayakan atas sistem komputer sebelum membuat satu usulan kepada pihak manajemen perusahaan.
                         
@@ -211,7 +211,25 @@ Tetapi, menjadi full-stack developer bukan berarti kamu harus mengerjakan keselu
 Bagian paling menarik dari web development adalah sifatnya yang terus berkembang. Apa yang dimaksud sebagai “front-end” atau “back-end” pada saat ini, bisa saja akan berubah secara drastis dalam beberapa tahun ke depan. Mempelajari keduanya akan membuat kamu lebih mempunyai nilai, gampang beradaptasi, dan berpandangan ke depan.
                         </p>
 
+                        <h3>Database Administrator ( DBA )</h3>
 
+                        <p>DBA Kontrol, Kontrol Basis Data sebagai sebuah bisnis sedang dimodifikasi dan dalam beberapa tahun mendatang kita mungkin bisa melihat lebih banyak komputerisasi yang berasal dari kemampuan yang terkait dengan sistem. Ini menyajikan situasi yang menarik bagi DBA, Administrator Server, dan para ahli di bidang yang sama yang menawarkan administrasi dan manajemen tingkat / contoh dan basis data. Apa yang harus mereka lakukan agar mereka menyesuaikan dan memodifikasi dengan periode modifikasi dan lanskap inovasi teknologi? Bagaimana mereka harus menjaga agar keterampilan mereka tetap relevan? Mari kita temukan apa modifikasi dalam inovasi teknologi, bagaimana hal itu terjadi, dan apa yang ditunjukkannya kepada DBA saat ini, yang lebih penting, apa yang harus dilakukan DBA agar tetap sesuai dan dalam pekerjaan.
+
+Otomasi telah mengakhiri banyak proyek biasa dan berulang yang pernah dipertanggungjawabkan oleh DBA. Sumber data NoSQL menawarkan prosedur untuk ruang penyimpanan dan pemulihan informasi yang tidak memerlukan skema yang telah ditentukan. Proses yang lama sekali termasuk server web baru telah dikurangi untuk hanya mengklik beberapa tombol kontrol. Bahkan pabrik informasi basis data relasional memaksa pelanggan ke arah "desktop sebagai layanan" di mana back-end dari fasilitas pc eksklusif berada oleh agen dukungan cloud.
+
+Tetapi DaaS telah diterima untuk sebagian kecil dari apa yang dilakukan banyak perusahaan tidak menyimpan informasi objektif mereka di cloud. Selain itu, tidak semuanya dapat dikomputerisasi pada saat ini. Misalnya, tidak ada banyak alat di sekitar untuk menemukan dan menyelesaikan masalah secara perlahan atau memilih faktor-faktor penting beling terbaik. Selain itu, terkomputerisasi telah menciptakan lingkungan data yang lebih rumit bagi siapa pun tanpa keterampilan administrasi khusus.
+
+</p><p>Cloud Publik</p><p>
+
+Cloud telah berkembang pesat selama beberapa tahun terakhir ini. Visibilitas pertama saya ke cloud adalah melalui aplikasi email SaaS. Kita semua mengenal e-mail dan aplikasi efisiensi di cloud. Kemudian beberapa tahun yang lalu seorang 'penjual buku' online mengguncang industri dengan menghadirkan IaaS di cloud komunitas pada kisaran besar dan terjangkau. Ada beberapa Penyedia Pusat Data bahkan sebelum AWS, yang merupakan semacam IaaS, namun, AWS dibawa ke pasar untuk penyediaan kendaraan Anda dan kemampuan pengaturan otomatis melalui situs web sederhana. Mereka juga menerbitkan cloud yang tersedia untuk semua orang. Anda dapat memasok dan menyewakan hanya satu server atau banyak server web. Perusahaan Microsoft Pink dan Google segera mengikuti paket.
+</p>
+<p>Cloud Pribadi</p><p>
+
+Sementara cloud komunitas mulai berkembang, peningkatan yang sama sedang diproduksi di area cloud individu. VMWare dan perusahaan Microsoft Hyper-V menawarkan kemampuan virtualisasi dan manajemen untuk memungkinkan suasana seperti Cloud di tempat. Penyediaan contoh, implementasi perangkat lunak berbasis desain, penambalan otomatis, pelacakan, jenis kinerja HA dan DR menjadi jadwal dan bagian dari inovasi teknologi virtualisasi. Direksi tidak harus merancang dan membangun lagi untuk kemampuan itu. Mereka harus melakukan jauh lebih sedikit, karena inovasi teknologi cloud alam memberi mereka kemampuan itu.
+
+Teknologi seperti paket Microsoft Azure menyediakan inovasi teknologi Microsoft Azure untuk Anda jalankan di dalam pusat data Anda yang memungkinkan, kaya, layanan mandiri, solusi multi-tenant dan pertemuan yang dapat diandalkan dengan penyediaan cloud komunitas Microsoft. Microsoft Azure Pack menggabungkan dengan System Middle dan Microsoft windows Server untuk membantu menawarkan situs web swalayan untuk menangani solusi seperti situs web, Perangkat Virtual, dan Bus Layanan, situs web untuk administrator untuk menangani cloud sumber, web hosting scalable; dan lainnya.
+
+</p>
                     </div>
                 </article>
 
