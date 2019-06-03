@@ -193,6 +193,38 @@ Untuk database user, dalam handle Autentifikasi (login/signup + password), bisa 
 Untuk bisa terhubung dengan database ini semua menggunakan REST API yang disediakan, dan REST APIdapat diakses dengan banyak cara, salah satunya Javascript.</p>
                                         
                                     </li>
+                                    <li>
+                                        <p>
+                                        Cloud Storage untuk static file
+                                        </p>
+                                        <p>Jika aplikasi memiliki fitur untuk upload gambar profil, atau foto produk, kita menggunakan Amazon S3 sebagai tempat penyimpanannya.
+Pilihan lainnya, bisa di Firebase, Azure Storage, Dropbox. Dan Cloud Storage juga dapat digunakan untuk menyimpan file JS, logo, dokumen, dll.
+
+Cara upload file ke Cloud Storage salah satunya melalui REST API yang disediakan atau melalui SFTP.</p>
+                                    </li>
+                                    <li>
+                                        <p>Cross Platform IDE
+                                        </p>
+                                        <p>Aplikasi di develop menggunakan IDE/Platform yang bisa save hasil codingan agar berjalan di Android, iOS, Linux, dan Windows. Seperti :
+
+                                        </p><p>- MeteorJS, bahasa HTML + CSS + Javascript</p><p>
+                                        </p><p>- Scade, IDE menggunakan bahasa Swift</p><p>
+                                        </p><p>- Intel XDK, IDE menggunakan bahasa HTML + CSS + Javascript</p><p>
+                                        </p><p>- Xamarin, IDE menggunakan bahasa C#</p><p>
+                                            
+                                        Dan masih banyak lagi pilihannya. Dengan bahasa-bahasa universal tersebut, dengan satu kali coding, aplikasi kita dapat berjalan di Android, Windows, Linux, dan iOS.</p>
+                                    </li>
+                                    <li>
+                                        <p> Middleware server</p>
+                                        <p>Salah satu cara komunikasi antara aplikasi ke Serverless Database dan Cloud Storage, adalah melalui REST API. Namun menghubungkan langsung aplikasi yang ada di tangan user ke serverless database, sangat riskan. Oleh karena itu kita memerlukan satu server sebagai middleware. 
+
+                                        Begitu juga untuk mengolah / menggenerate data, kita memerlukan sebuah server untuk menjalankan script. Script tersebut biasanya dicoding menggunakan Flask (Python), atau Ruby. Atau bisa juga menggunakanJavascript + NodeJS. Bahasa-bahasa tersebut dipilih karena script lebih cepat dan ringan ketika dieksekusi.
+
+                                        </p>
+                                        
+                                    </li>
+
+
                                 </ol>
 
 

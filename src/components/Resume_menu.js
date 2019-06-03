@@ -16,7 +16,6 @@ class Resume_menu extends Component{
 
                         <ul class="categories">
                             
-
                             <li><div class="chip"> <a href="mailto:ahendroo1@gmail.com" ><i class="fa fa-envelope"></i> Email : Ahendroo1@gmail.com</a></div></li>
                             
                             <li><div class="chip"> <a href="https://wa.me/6283845786165"   ><i class="fa fa-whatsapp"></i> WA : +6283845786165</a></div></li>
@@ -59,8 +58,9 @@ class Resume_menu extends Component{
                                 <p>Coding School</p>
                                 <p>Front-End Developer</p>
                             </div>
+                            
                         </div>
-                        <div class="Media" >
+                        <div class="Media">
                             <a href="https://www.purwadhika.com" target="_blank" style={{color:"black"}}><img class="Media-figure" src="https://webdev-id.com/img/logo/1543990556_960468.png" alt="purwadhika" /></a>
                             <div class="Media-body">
                                 <h6 class="Media-title"><a href="https://www.purwadhika.com" style={{color:"black"}}>Purwadhika</a></h6>
@@ -75,6 +75,7 @@ class Resume_menu extends Component{
 
                     <h4>Portofolio</h4>
                     <div class="widget">
+
                         <div class="Media">
                             <img class="Media-figure" src="https://jakcloth.co.id/template/assets/images/logo-jakcloth@1x.png" height="80px;" alt="JakCloth" />
                             <div class="Media-body">
