@@ -7,7 +7,7 @@ class Resume_content extends Component {
             <footer class="single-footer">
                 <div class="container">
                     <p class="text-center">
-                        © Copyright 2018. All right reserved by
+                        © Copyright 2017. All right reserved by
                                     <a href="#">
                             <strong> Amad Hendro </strong>
                         </a>

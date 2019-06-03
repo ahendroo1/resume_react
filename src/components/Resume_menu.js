@@ -19,14 +19,14 @@ class Resume_menu extends Component{
 
                             <li><div class="chip"> <a href="mailto:ahendroo1@gmail.com" ><i class="fa fa-envelope"></i> Email : Ahendroo1@gmail.com</a></div></li>
                             
-                            <li><div class="chip"> <a href="https://wa.me/6283845786165"  ><i class="fa fa-whatsapp"></i> WA : +6283845786165</a></div></li>
+                            <li><div class="chip"> <a href="https://wa.me/6283845786165"   ><i class="fa fa-whatsapp"></i> WA : +6283845786165</a></div></li>
                             
-                            <li><div class="chip"> <a href="https://www.facebook.com/ahendroo"  ><i class="fa fa-facebook"></i> facebook.com/ahendroo</a></div></li>
+                            <li><div class="chip"> <a href="https://www.facebook.com/ahendroo" target="_blank"  ><i class="fa fa-facebook"></i> facebook.com/ahendroo</a></div></li>
                             
-                            <li><div class="chip"> <a href="https://twitter.com/Ahendroo"  ><i class="fa fa-twitter"></i> twitter.com/ahendroo</a></div></li>
+                            <li><div class="chip"> <a href="https://twitter.com/Ahendroo"  target="_blank" ><i class="fa fa-twitter"></i> twitter.com/ahendroo</a></div></li>
                         
-                            <li><div class="chip"> <a href="https://github.com/ahendroo1"  ><i class="fa fa-github"></i> github.com/ahendroo1</a></div></li>
-                            <li><div class="chip"> <a href="https://www.linkedin.com/in/amad-hendro-976091b8"  ><i class="fa fa-linkedin"></i> Amad Hendro </a></div></li>
+                            <li><div class="chip"> <a href="https://github.com/ahendroo1" target="_blank"  ><i class="fa fa-github"></i> github.com/ahendroo1</a></div></li>
+                            <li><div class="chip"> <a href="https://www.linkedin.com/in/amad-hendro-976091b8" target="_blank"  ><i class="fa fa-linkedin"></i> Amad Hendro </a></div></li>
                             
                         </ul>
                         
@@ -42,9 +42,9 @@ class Resume_menu extends Component{
                     <h4>Pendidikan</h4>
                     <div class="widget">
                         <div class="Media">
-                            <img class="Media-figure" src="http://1.bp.blogspot.com/-Oi1dQFVHExs/Tg2O2i7ATJI/AAAAAAAAD1I/eVhwhwjRMJs/s320/LOGO+BINA+SARANA+INFORMATIKA+BSI.jpg" height="80px;" alt="BSI" />
+                            <a href="http://bsi.ac.id" target="_blank" style={{color:"black"}}><img class="Media-figure" src="http://1.bp.blogspot.com/-Oi1dQFVHExs/Tg2O2i7ATJI/AAAAAAAAD1I/eVhwhwjRMJs/s320/LOGO+BINA+SARANA+INFORMATIKA+BSI.jpg" height="80px;" alt="BSI" /></a>
                             <div class="Media-body">
-                                <h6 class="Media-title">Binsa Sarana Informatika</h6>
+                                <h6 class="Media-title"><a href="http://bsi.ac.id" style={{color:"black"}}>Bina Sarana Informatika</a></h6>
                                 <p> Diploma III</p>
                                 <p> Sistem Informasi</p>
                             </div>
@@ -53,17 +53,17 @@ class Resume_menu extends Component{
                         <hr />
 
                         <div class="Media">
-                            <img class="Media-figure" src="https://www.convergencevc.com/wp-content/uploads/2018/12/Logo-Hacktiv8-bordered.png" alt="h8" />
+                        <a href="https://www.hacktiv8.com" target="_blank" style={{color:"black"}}><img class="Media-figure" src="https://www.convergencevc.com/wp-content/uploads/2018/12/Logo-Hacktiv8-bordered.png" alt="h8" /></a>
                             <div class="Media-body">
-                                <h6 class="Media-title">Hacktiv8</h6>
+                                <h6 class="Media-title"><a href="https://www.hacktiv8.com" style={{color:"black"}}>Hacktiv8</a></h6>
                                 <p>Coding School</p>
                                 <p>Front-End Developer</p>
                             </div>
                         </div>
-                        <div class="Media">
-                            <img class="Media-figure" src="https://webdev-id.com/img/logo/1543990556_960468.png" alt="h8" />
+                        <div class="Media" >
+                            <a href="https://www.purwadhika.com" target="_blank" style={{color:"black"}}><img class="Media-figure" src="https://webdev-id.com/img/logo/1543990556_960468.png" alt="purwadhika" /></a>
                             <div class="Media-body">
-                                <h6 class="Media-title">Purwadhika</h6>
+                                <h6 class="Media-title"><a href="https://www.purwadhika.com" style={{color:"black"}}>Purwadhika</a></h6>
                                 <p>Coding School</p>
                                 <p>Full-Stack Developer</p>
                             </div>
