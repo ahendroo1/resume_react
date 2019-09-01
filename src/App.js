@@ -53,7 +53,7 @@ class App extends Component {
     return (
       <div>
           <div class="back-button">
-                <img src="https://scontent.fsub1-1.fna.fbcdn.net/v/t1.0-9/11800609_807909592641013_2193289473768528863_n.jpg?_nc_cat=111&_nc_ht=scontent.fsub1-1.fna&oh=6903c07d4e341aeb7dbdcbe1c53d5d1c&oe=5D5AD67A" class="img-circle" alt="Amad Hendro" width="70px" height="70px" />
+                <img src="https://avatars3.githubusercontent.com/u/24790171?s=460&v=4" class="img-circle" alt="Amad Hendro" width="70px" height="70px" />
           </div>
 
           <div class="single-background">
