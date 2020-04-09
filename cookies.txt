@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.creative-tim.com	TRUE	/	FALSE	1999999999	__cfduid	d89bb51a168c88f13bf5c4f72437fec741586443204
+demos.creative-tim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.solodev.com	TRUE	/	FALSE	1999999999	PHPSESSID	dau5dkjptoh605329rukockfsv
+www.solodev.com	TRUE	/	FALSE	1999999999	AWSALB	fgofL1mE2omySLzQMdWgOdBqn2EI6yR1JZ/JRzeaWvMCSdT08p64rAPdHayEY6qwvOSRDxryVCP19y2jIx4LuJjC0BzS+HuQRX+8n368l+qpr/wH/W8FSt43Erhm
+www.solodev.com	TRUE	/	FALSE	1999999999	AWSALBCORS	fgofL1mE2omySLzQMdWgOdBqn2EI6yR1JZ/JRzeaWvMCSdT08p64rAPdHayEY6qwvOSRDxryVCP19y2jIx4LuJjC0BzS+HuQRX+8n368l+qpr/wH/W8FSt43Erhm
+www.solodev.com	TRUE	/	FALSE	1999999999	SameSite	None
+
